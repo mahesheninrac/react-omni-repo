@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'enin-icon-font';
+  src:  url('enin-icon/enin-icon-font.eot?nhkk4p');
+  src:  url('enin-icon/enin-icon-font.eot?nhkk4p#iefix') format('embedded-opentype'),
+    url('enin-icon/enin-icon-font.ttf?nhkk4p') format('truetype'),
+    url('enin-icon/enin-icon-font.woff?nhkk4p') format('woff'),
+    url('enin-icon/enin-icon-font.svg?nhkk4p#enin-icon-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon-enin {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'enin-icon-font' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-champion-oem:before {
+  content: "\e908";
+}
+.icon-crown-state:before {
+  content: "\e909";
+}
+.icon-lead-region:before {
+  content: "\e90a";
+}
+.icon-prime-category:before {
+  content: "\e90b";
+}
+.icon-by-brand:before {
+  content: "\e900";
+}
+.icon-by-category:before {
+  content: "\e901";
+}
+.icon-by-region:before {
+  content: "\e902";
+}
+.icon-by-state:before {
+  content: "\e903";
+}
+.icon-By-Value:before {
+  content: "\e904";
+}
+.icon-By-Volume:before {
+  content: "\e905";
+}
+.icon-profile-icon:before {
+  content: "\e906";
+}
+.icon-burger-icon:before {
+  content: "\e907";
+}
+.icon-attractive-index:before {
+  content: "\e911";
+}
+.icon-battery:before {
+  content: "\e912";
+}
+.icon-brand-track:before {
+  content: "\e913";
+}
+.icon-by-value:before {
+  content: "\e914";
+}
+.icon-by-volume:before {
+  content: "\e915";
+}
+.icon-central-level-policy:before {
+  content: "\e916";
+}
+.icon-central-level-scheme:before {
+  content: "\e917";
+}
+.icon-cluster-analysis:before {
+  content: "\e918";
+}
+.icon-competition-benchmarking:before {
+  content: "\e919";
+}
+.icon-competitor-intelligence:before {
+  content: "\e91a";
+}
+.icon-future-maket:before {
+  content: "\e925";
+}
+.icon-industry-comments:before {
+  content: "\e926";
+}
+.icon-investment-deal-tracker:before {
+  content: "\e927";
+}
+.icon-market-sizing:before {
+  content: "\e928";
+}
+.icon-pli:before {
+  content: "\e929";
+}
+.icon-production:before {
+  content: "\e91b";
+}
+.icon-sales:before {
+  content: "\e91c";
+}
+.icon-state-level-policy:before {
+  content: "\e91d";
+}
+.icon-state-level-scheme:before {
+  content: "\e91e";
+}
+.icon-supply-chain:before {
+  content: "\e91f";
+}
+.icon-support-index:before {
+  content: "\e920";
+}
+.icon-themes:before {
+  content: "\e921";
+}
+.icon-updates:before {
+  content: "\e922";
+}
+.icon-voc-survey:before {
+  content: "\e923";
+}
+.icon-x-mission:before {
+  content: "\e924";
+}
